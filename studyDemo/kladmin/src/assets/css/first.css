@@ -1,0 +1,13 @@
+/*头部*/
+#bg{
+  min-width: 1250px;
+    height:750px;
+    /* border: 1px solid red; */
+    background: url(../img/bg1.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+/*头部*/
+/* #head{
+    min-width: 1090px;
+    height: 80px;
+} */
